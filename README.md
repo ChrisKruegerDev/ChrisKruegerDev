@@ -8,13 +8,13 @@ Indie App Developer · Berlin · Kotlin Multiplatform
 
 ### 💸 [ReSubs](https://resubs.app) — Subscription Manager
 Track and manage all your recurring subscriptions in one place.  
-[Google Play](https://play.google.com/store/apps/details?id=com.moviebase.resubs)  
-[App Store](https://apps.apple.com/app/resubs/id6738642977)
+[Google Play](https://play.google.com/store/apps/details?id=app.resubs)  
+[App Store](https://apps.apple.com/app/subscription-manager-resubs/id6740457603)
 
 ### 🎵 [Momental](https://momental.ai) — Soundscape & Meditation App
 Immersive soundscapes and ambient sounds for focus, relaxation and mindfulness.  
-[Google Play](https://play.google.com/store/apps/details?id=com.momental)  
-[App Store](https://apps.apple.com/app/momental/id6670624065)
+[Google Play](https://play.google.com/store/apps/details?id=ai.momental)  
+[App Store](https://apps.apple.com/de/app/momental-mindful-time/id6749689590)
  
 
 ### 🎬 [Moviebase](https://moviebase.app) — Movie & TV Show Tracker
@@ -23,4 +23,4 @@ Discover, track and rate movies & TV shows. Build your watchlist and sync with T
 
 ### 📺 [StreamGuide](https://streamguide.app) — Streaming Guide
 Find out where to watch movies & shows across all streaming services.  
-[Google Play](https://play.google.com/store/apps/details?id=com.moviebase.streamguide)
+[Google Play](https://play.google.com/store/apps/details?id=app.streamguide)
